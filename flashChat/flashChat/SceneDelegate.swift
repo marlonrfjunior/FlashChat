@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  flashChat
+//  FlashChat
 //
-//  Created by Marlon Junior🦈⚓️ on 22/11/21.
+//  Created by Marlon Junior on 24/03/22.
 //
 
 import UIKit
